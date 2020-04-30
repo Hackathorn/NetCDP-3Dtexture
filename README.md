@@ -2,23 +2,21 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<img align="right" width="200" height="200" src="/image/tornado3d.jpg">
-Notebooks and Web API to convert NetCDF file to 3D Textures. 
+<img align="right" width="200" height="200" src="image/tornado3d.jpg">
+Notebooks and web API to convert NetCDF file to 3D Textures. Specific functions include:
 
-Ipyvolume currenty can
- * 
+- Exploring the characteristics of NetDCDF datasets
+- ...
 
 # Documentation
 
-asdf
+to be completed
 
-# Screen Captures
 
-asdf
 
 # Installation using Conda
 
-**NOTE** use conda, not pip. And use a new environment created with `environment.yml` file
+**NOTE:** Use conda, not pip, with a new conda environment created with `environment.yml` file
 
 **To use notebooks**, install the following...
 - [**JupyterLab**](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html): 
