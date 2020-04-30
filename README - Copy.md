@@ -1,9 +1,8 @@
-# NetCDF to 3D Volume Textures
+# NetCDF to 3D Volume Texture
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<img align="right" width="200" height="200" src="/image/tornado3d.jpg">
-Notebooks and Web API to convert NetCDF file to 3D Textures. 
+3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 
 Ipyvolume currenty can
  * 
