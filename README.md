@@ -16,7 +16,7 @@ to be completed
 
 # Installation using Conda
 
-**NOTE:** Use conda, not pip, with a new conda environment created with `environment.yml` file
+**NOTE:** Use conda, not pip, with a new environment created with `environment.yml` file
 
 **To use notebooks**, install the following...
 - [**JupyterLab**](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html): 
