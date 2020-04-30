@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<img align="right" width="200" height="200" src="../image/tornado3d.jpg">
+<img align="right" width="200" height="200" src="images/torando3d.png">
 Notebooks and web API to convert NetCDF file to 3D Textures. Specific functions include:
 
 - Exploring the characteristics of NetDCDF datasets
