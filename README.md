@@ -2,8 +2,11 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-<img align="right" width="200" height="200" src="images/torando3d.png">
-Notebooks and web API to convert NetCDF file to 3D Textures. Specific functions include:
+<img align="right" width="200" height="200" src="./Images/torando3d.png">
+
+The goal is to convert [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) & [GRIB](https://en.wikipedia.org/wiki/GRIB) datasets into 3D force field textures for rendering with [Unity Visual Effect Graphs](https://unity.com/visual-effect-graph). 
+
+Specific functions include:
 
 - Exploring the characteristics of NetDCDF datasets
 - ...
